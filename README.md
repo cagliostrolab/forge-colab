@@ -6,6 +6,7 @@ Welcome to the next evolution of Stable Diffusion notebooks! This is the success
 
 ## ✨ Features
 
+- 🖱️ 1-Click Is All You Need
 - 🚀 Lightning-fast setup and installation process
 - 🖼️ Optimized for SDXL models and workflows
 - ⚙️ Pre-configured settings for optimal performance
@@ -48,8 +49,8 @@ Feel free to open issues or submit pull requests for any improvements or bug fix
 
 ## 📜 License
 
-[MIT License](LICENSE)
+[Apache 2.0](LICENSE)
 
 ---
 
-*Acknowledgment: This README was generated with the assistance of Claude 3.5 Pro, an AI language model developed by Anthropic.*
+*Acknowledgment: This README was generated with the assistance of Claude 3.5 Sonnet, an AI language model developed by Anthropic.*
