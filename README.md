@@ -23,6 +23,10 @@ Welcome to the next evolution of Stable Diffusion notebooks! This is the success
 3. ▶️ Run the cells to set up the environment and launch the Web UI
 4. 💾 Use the download cell to save your generated images
 
+Watch this video for a detailed walkthrough:
+
+[![Cagliostro Forge Colab Tutorial](https://img.youtube.com/vi/9bbeYXpc30w/0.jpg)](https://www.youtube.com/watch?v=9bbeYXpc30w)
+
 ## 🎨 Models
 
 The notebook comes pre-configured with options to download popular SDXL models:
