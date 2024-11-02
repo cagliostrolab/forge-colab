@@ -34,7 +34,7 @@ The notebook comes pre-configured with options to download popular SDXL models:
 - 🌟 [Animagine XL 3.1](https://huggingface.co/cagliostrolab/animagine-xl-3.1)
 - 🎨 [Rae Diffusion XL V2](https://huggingface.co/Raelina/Rae-Diffusion-XL-V2)
 - 🏫 [Kivotos XL V2.0](https://huggingface.co/yodayo-ai/kivotos-xl-2.0)
-- 🌈 [UrangDiffusion 1.4](https://huggingface.co/kayfahaarukku/UrangDiffusion-1.4/tree/main)
+- 🌈 [UrangDiffusion 2.0](https://huggingface.co/kayfahaarukku/UrangDiffusion-2.0)
 
 You can also specify custom model URLs for download.
 
